@@ -71,6 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sai2475/Sai2475/output/snake.svg" alt="Snake animation" />
+
 
 ###
